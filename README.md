@@ -1,2 +1,2 @@
 # Projeto-individual
-Projeto adoção
+Projeto curriculo
